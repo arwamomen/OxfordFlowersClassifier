@@ -11,4 +11,4 @@ The file "label_map.json" maps the integer labels to the flower names.
 
 The folder "test_images" comtains 4 flower images used for sanity checks throughout the notebook.
 
-"predict.py" can be run from the shell to perform inference on a given image using the best model, unless a different model is specified by the user in the command line.
+"predict.py" can be run from the shell to perform inference on a given image using the best saved model, unless a different model is specified by the user in the command line.
